@@ -64,7 +64,7 @@ Design a system that:
 
 1. Click **Create subscription**
 2. Protocol: **Email**
-3. Endpoint: Enter your email
+3. Endpoint: Enter your email 
 4. Click **Create subscription**
 
 > ⚠️ Confirm the subscription via email (status must be **Confirmed**)
